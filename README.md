@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,me llamo Daniel Montero Daniel Montero</h1>
+<h1 align="center">Hi 👋,me llamo Daniel Montero</h1>
 <h3 align="center">frontend developer</h3>
 
 - 💬 Ask me about **html, css, jascript, typescript**
