@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,me llamo Daniel Montero</h1>
 <h3 align="center">frontend developer</h3>
 
-- 💬 Ask me about **html, css, jascript, typescript**
+- 💬 Ask me about **html, css, jascript, typescript, python**
 
 - 📫 How to reach me **salamapatela@gmail.com**
 
