@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>      Proyectos por mi propia cuanta<br><br>👯 I’m looking to collaborate on<br>      Cualquier proyecto. Que te ayude  aprender y a trabajar en equipo.<br><br>🤝 I’m looking for help with<br><br><br>🌱 I’m currently learning<br>   HTML CSS JavaScript Node.js SQL React  <br> <br>💬 Ask me about<br>   HTML CSS JavaScript Node.js SQL   <br>⚡ Fun fact
+🔭 I’m currently working on<br>Proyectos por mi propia cuanta, aprendiendo programación web<br><br>👯 I’m looking to collaborate on<br>      Cualquier proyecto. Que te ayude  aprender y a trabajar en equipo.<br><br>🤝 I’m looking for help with<br><br><br>🌱 I’m currently learning<br>   HTML CSS JavaScript Node.js SQL React  <br> <br>💬 Ask me about<br>   HTML CSS JavaScript Node.js SQL   <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -37,13 +37,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pibe0010&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pibe0010&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pivillo0010&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-![](https://www.paypal.com/donate/?hosted_button_id=3WHXE7Y3T9FWQ)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=3WHXE7Y3T9FWQ) 
 
 
   
