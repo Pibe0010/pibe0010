@@ -43,7 +43,22 @@
 [![](https://visitcount.itsvg.in/api?id=pibe0010&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-[![](https://paypal.me/salamapatela@gmail.com)
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'3WHXE7Y3T9FWQ',
+image: {
+src:'https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif',
+alt:'Botón Donar con PayPal',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
