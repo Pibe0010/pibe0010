@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,me llamo Daniel Montero</h1>
 <h3 align="center">Developer web</h3>
 
-- 💬 Ask me about **HTML, CSS, Jascript, Node.js, SQL**
+- 💬 Ask me about **HTML, CSS, Jascript, Node.js, MYSQL, React**
 
 - 📫 How to reach me **salamapatela@gmail.com**
 
